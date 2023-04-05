@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  outline: 0;
+}
+
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  background-color: #e9eaed;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial;
+  font-size: 13px;
+  overflow: hidden;
+  text-align: center;
+  line-height: 20px;
+}
